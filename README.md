@@ -4,8 +4,9 @@
  ![Willian1661 GitHub stats](https://github-readme-stats.vercel.app/api?username=Willian1661&show_icons=true&theme=dracula&count_private=true)
   
 ### Current Projects:
+- <a href="/">User list</a> 
+- <a href="https://github.com/Willian1661/Canteen-Project">Canteen Project</a>
 - <a href="https://github.com/shield-wall/job">Job</a>
-- Canteen Project
 
 ### Last projects:
 - <a href="https://github.com/Willian1661/calculate_project">Calculator Project</a>
