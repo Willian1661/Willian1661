@@ -1,18 +1,23 @@
-
-  <a href="https://github.com/Willian1661">
- 
- ![Willian1661 GitHub stats](https://github-readme-stats.vercel.app/api?username=Willian1661&show_icons=true&theme=dracula&count_private=true)
   
+ <div align="rigth">
+  <a href="https://github.com/Willian1661">
+     <img src="https://github-readme-stats.vercel.app/api?username=Willian1661&count_private=true&show_icons=true&theme=dracula&hide_border=true" />    
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian1661&layout=compact&theme=dracula&hide_border=true" />
+  </a>
+  <p align="rigth"><br>
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,javascript"  width="140"/>
+  </p>
+
+ </div>
+    
 ### Current Projects:
-- <a href="/">User list</a> 
-- <a href="https://github.com/Willian1661/Canteen-Project">Canteen Project</a>
-- <a href="https://github.com/shield-wall/job">Job</a>
+- :bust_in_silhouette: <a href="/">User list</a> 
+- :coffee: <a href="https://github.com/Willian1661/Canteen-Project">Canteen Project</a>
+- :necktie: <a href="https://github.com/shield-wall/job">Job</a>
 
 ### Last projects:
-- <a href="https://github.com/Willian1661/calculate_project">Calculator Project</a>
-- Simple test projects: <a href="https://github.com/Willian1661/learning-code/tree/master">Learning-code</a>
+- :heavy_division_sign: <a href="https://github.com/Willian1661/calculate_project">Calculator Project</a>
+- Simple training projects: <a href="https://github.com/Willian1661/learning-code/tree/master">Learning-code</a>
 
 ### Contacts:
-  
-- willianderson.sn@gmail.com
-- <a href="https://www.linkedin.com/in/williansn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+:mailbox_with_mail: willianderson.sn@gmail.com | <a href="https://www.linkedin.com/in/williansn/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="send a message :)" width="20"/>  williansn</a>
