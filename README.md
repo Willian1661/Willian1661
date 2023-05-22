@@ -20,4 +20,4 @@
 - Simple training projects: <a href="https://github.com/Willian1661/learning-code/tree/master">Learning-code</a>
 
 ### Contacts:
-:mailbox_with_mail: willianderson.sn@gmail.com | <a href="https://www.linkedin.com/in/williansn/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="send a message :)" width="20"/>  williansn</a>
+:mailbox_with_mail: willianderson.sn@gmail.com | <a href="https://www.linkedin.com/in/williansn/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" title="send a message :)" alt="Linkedin" width="20"/>  williansn</a>
