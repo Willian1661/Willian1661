@@ -1,8 +1,8 @@
   
  <div align="rigth">
   <a href="https://github.com/Willian1661">
-     <img src="https://github-readme-stats.vercel.app/api?username=Willian1661&count_private=true&show_icons=true&theme=dracula&hide_border=true" />    
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian1661&layout=compact&theme=dracula&hide_border=true" width="355" />
+     <img src="https://github-readme-stats.vercel.app/api?username=Willian1661&count_private=true&show_icons=true&hide_border=true&theme=dracula" />    
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willian1661&layout=compact&hide_border=true&theme=dracula" width="355" />
   </a>
   <p align="rigth"><br>
     <img src="https://skillicons.dev/icons?i=git,react,nodejs,javascript"  width="140"/>
