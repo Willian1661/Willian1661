@@ -11,7 +11,7 @@
  </div>
     
 ### Current Projects:
-- :necktie: <a href="https://github.com/shield-wall/job">Job</a>
+- 
 
 ### Last projects:
 - :coffee: <a href="https://github.com/Willian1661/Canteen-Project">Canteen Project</a>
