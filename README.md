@@ -11,7 +11,7 @@
  </div>
     
 ### Current Projects:
-- 
+- ⛪ <a href="https://github.com/Willian1661/Church-Project/">Church Project</a>
 
 ### Last projects:
 - :coffee: <a href="https://github.com/Willian1661/Canteen-Project">Canteen Project</a>
